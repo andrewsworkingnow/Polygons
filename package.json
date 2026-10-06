@@ -1,0 +1,7 @@
+{
+  "name": "polygons",
+  "private": true,
+  "scripts": {
+    "test": "node tests/algorithms.cjs"
+  }
+}
